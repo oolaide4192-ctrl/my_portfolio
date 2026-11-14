@@ -1,6 +1,6 @@
 
 /* =========================================
-   AKINLAMI DAMILARE MOSES — PORTFOLIO
+   OJORO OLAIDE FAWZEEAT — PORTFOLIO
    Main JavaScript
 ========================================= */
 
@@ -285,12 +285,12 @@ document.addEventListener("DOMContentLoaded", () => {
                 return;
             }
 
-            const recipient = "damilareakinlami@gmail.com";
+            const recipient = "fawziyatolaideojoro@gmail.com";
 
             const emailSubject = encodeURIComponent(subject);
 
             const emailBody = encodeURIComponent(
-                `Hello Damilare,
+                `Hello Olaide,
 
 ${message}
 
