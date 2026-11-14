@@ -90,7 +90,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const emptyMessage = document.getElementById("emptyMessage");
     const taskSummary = document.getElementById("taskSummary");
 
-    const STORAGE_KEY = "akinlamiPortfolioTasks";
+    const STORAGE_KEY = "ojoroOlaidePortfolioTasks";
 
     let tasks = [];
 
