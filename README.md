@@ -85,7 +85,7 @@ No frontend framework or database is required.
 2. Open the project folder:
 
    ```bash
-   cd Damilare
+   cd Ojoro-Olaide-Portfolio
    ```
 
 3. Open `index.html` in a browser, or use the Live Server extension in Visual Studio Code.
@@ -93,7 +93,7 @@ No frontend framework or database is required.
 ## Project Structure
 
 ```text
-Damilare/
+Ojoro-Olaide-Portfolio/
 ├── index.html
 ├── about.html
 ├── projects.html
