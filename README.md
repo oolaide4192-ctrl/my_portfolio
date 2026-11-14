@@ -1,128 +1,115 @@
-# Akinlami Damilare Moses - Personal Portfolio
+# Ojoro Olaide Fawzeeat — Professional Portfolio
 
-A personal portfolio website showcasing my background, professional experience, academic journey, projects, and continuous development in Data Science.
+A responsive personal portfolio presenting my professional experience in education, digital creativity, academic background, certifications, recognition and skills.
 
-**Curious about data. Driven by impact.**
+**Class Teacher | Educator | Graphic Designer | Content Creator | Video Editor**
 
 ---
 
 ## About Me
 
-I'm **Akinlami Damilare Moses**, a Data Science undergraduate at MIVA Open University, based in Lagos, Nigeria.
+I am a dedicated and versatile educator with **9 years of teaching experience** in private school settings. My professional strengths include lesson planning, classroom management, curriculum delivery, learner assessment and effective classroom communication.
 
-My journey combines an academic background in Civil Engineering, professional experience in data validation, and a growing interest in Data Science, analytics, and machine learning.
+I also have experience in graphic design, social media management, content creation and video editing. I am currently pursuing a **B.Sc. in Data Science at Miva Open University**, with previous academic qualifications in Industrial Maintenance Engineering and Chemical Engineering.
 
-I'm passionate about using data and technology to understand real-world problems, uncover meaningful insights, and contribute to practical solutions.
+Based in Lagos, Nigeria.
 
-This portfolio serves as a central place to explore my background, projects, skills, and professional interests.
+## Portfolio Sections
 
-## Website Features
+- **Home:** Professional introduction and areas of experience.
+- **About:** Professional profile, employment history, education, certification and award.
+- **Skills:** Teaching competencies, digital tools and creative capabilities.
+- **Planner:** A browser-based task planner.
+- **Contact:** Contact details and an email-preparation form.
 
-- **Home:** An introduction to my background, interests, learning journey, and professional direction.
-- **About:** My academic qualifications, professional experience, personal interests, and values.
-- **Projects:** A showcase of selected Data Science and technology projects.
-- **Personal Planner:** A task management tool for organising and tracking learning activities.
-- **Contact:** A contact form that prepares an email for direct communication.
-- **Responsive Design:** Layouts designed to adapt to desktop, tablet, and mobile screen sizes.
+## Professional Experience
 
-## Technology Stack
+### Cedarville Private School — 2024–2026
+- Class Teacher
+- Social Media Manager, Content Creator, Graphic Designer & Video Editor
 
-| Technology | Purpose |
-|---|---|
-| HTML5 | Website structure and content |
-| CSS3 | Styling, layouts, animations, and responsive design |
-| JavaScript | Interactive features and functionality |
-| Google Fonts | Typography using Manrope and DM Sans |
-| Browser Local Storage | Saving planner tasks locally |
+### Chinnods Montessori School — 2022–2024
+- Class Teacher
 
-The project uses vanilla HTML, CSS, and JavaScript without a frontend framework.
+### Johnny Kiddies School — 2017–2021
+- Class Teacher
+
+See [About](about.html) for responsibilities and details.
+
+## Education
+
+- **B.Sc. Data Science** — Miva Open University (2026–Present)
+- **HND, Industrial Maintenance Engineering** — Yaba College of Technology (2023–2026)
+- **ND, Chemical Engineering** — Lagos State Polytechnic, Ikorodu (2017–2020)
+- **SSCE/O'Level** — St. Joseph Senior Secondary School (2013–2016)
+- **JSCE** — Atunrase Junior High School (2010–2013)
+- **FSLC** — Wisdom Children School (2002–2010)
+
+## Skills
+
+**Teaching:** Classroom management, lesson planning, curriculum delivery, learner assessment and evaluation, child-centred teaching, differentiated learning, learner motivation, educational content development, parent–teacher communication, teamwork and collaboration.
+
+**Microsoft Office:** Word, PowerPoint, Excel.
+
+**Graphic Design:** CorelDRAW, Canva, PixelLab.
+
+**Video Editing:** CapCut, InShot.
+
+**Other Digital Skills:** Social media management, content creation, digital communication and visual content development.
+
+## Certification & Recognition
+
+- **RIGHT TEACHER Academy Certificate**
+- **Top Performance Award — Cedarville Private School**, in recognition of diligence, dedication and outstanding performance.
+
+## Technology
+
+This website is built with:
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Browser Local Storage for the planner
+- Google Fonts (Manrope and DM Sans)
+
+No frontend framework or database is required.
+
+## Run Locally
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/samad-source/Damilare.git
+   ```
+
+2. Open the project folder:
+
+   ```bash
+   cd Damilare
+   ```
+
+3. Open `index.html` in a browser, or use the Live Server extension in Visual Studio Code.
 
 ## Project Structure
 
 ```text
-akinlami-portfolio/
-│
+Damilare/
 ├── index.html
 ├── about.html
 ├── projects.html
 ├── planner.html
 ├── contact.html
 ├── README.md
-│
 ├── css/
 │   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── images/
-    └── profile.jpg
+└── js/
+    └── script.js
 ```
 
-## Getting Started
+## Contact
 
-You can run this project locally by following these steps.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/samad-source/akinlami-portfolio.git
-```
-
-### 2. Navigate into the project folder
-
-```bash
-cd akinlami-portfolio
-```
-
-### 3. Open the project
-
-Open the folder in Visual Studio Code.
-
-### 4. Run the website
-
-Use the **Live Server** extension in Visual Studio Code to launch `index.html` in your browser.
-
-Alternatively, open `index.html` directly in a browser.
-
-## Customisation
-
-To personalise the website:
-
-- Replace `images/profile.jpg` with your preferred professional photograph.
-- Update the content in the HTML files when your experience, education, and projects change.
-- Add or modify project entries in `projects.html`.
-- Adjust colours, typography, spacing, and layouts in `css/style.css`.
-- Update interactive functionality in `js/script.js`.
-
-## Important Implementation Notes
-
-- Planner tasks are stored in the browser's Local Storage. They do not automatically synchronise between different browsers or devices.
-- The contact form uses a `mailto:` link to prepare an email in the visitor's default email application. It does not send messages through a backend server.
-- The project currently uses static HTML pages and does not require a database or server-side application.
-
-## Areas for Future Improvement
-
-Planned opportunities for further development include:
-
-- Integrating a backend-powered contact form.
-- Adding a database and cloud synchronisation for planner tasks.
-- Expanding the project portfolio with more applied Data Science work.
-- Improving accessibility and performance.
-- Adding project-specific demonstrations, documentation, and live links.
-
-## Connect With Me
-
-- **GitHub:** [github.com/samad-source](https://github.com/samad-source)
-- **Email:** [damilareakinlami@gmail.com](mailto:damilareakinlami@gmail.com)
+- **Email:** [fawziyatolaideojoro@gmail.com](mailto:fawziyatolaideojoro@gmail.com)
+- **Phone:** [08162386265](tel:08162386265)
 - **Location:** Lagos, Nigeria
 
----
-
-## License
-
-This project is my personal portfolio. You may explore the source code for learning and inspiration. Please contact me before reusing substantial portions of the design or content.
-
----
-
-**Built with curiosity, consistency, and a commitment to continuous learning.**
+**References are available upon request.**
