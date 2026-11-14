@@ -1872,3 +1872,20 @@ footer {
     z-index: 2;
     pointer-events: none;
 }
+
+
+/* Initial-based portrait treatment where no profile photograph is supplied */
+.profile-initials {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    min-height: 280px;
+    align-items: center;
+    justify-content: center;
+    color: var(--green-dark);
+    font-family: 'Manrope', sans-serif;
+    font-size: clamp(5rem, 13vw, 9rem);
+    font-weight: 800;
+    letter-spacing: -0.09em;
+    background: linear-gradient(145deg, var(--mint), #dcefe4);
+}
